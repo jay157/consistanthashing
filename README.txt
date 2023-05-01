@@ -1,11 +1,4 @@
-# Distributed Computing Systems
-
-## Programming Project 4: Consistent Hashing-based Naming Service
-
-### Members
-1. Jaya Simha Reddy Kurri (jrk98933@uga.edu)
-2. Shanwaz Waqar Kotekanti (sk98220@uga.edu)
-
+Consistent Hashing-based Naming Service
 
 
 #### special compilation or execution instruction
@@ -68,9 +61,7 @@
 	exit : The name server will gracefully exit the system. The name server will inform its successor and predecessor name servers. It will hand over the key value pairs that it was maintaining to the successor. Upon successful exit, the server will print “Successful exit” message. It will also print out the ID of the successor and the key range that was handed over.
 
 
-###### Honor Pledge For Project
 
-This project was done in its entirety by **Jaya Simha Reddy Kurri** and ** Shanwaz Waqar Kotekanti **. We hereby state that we have not received unauthorized help of any form.
 
 
 
